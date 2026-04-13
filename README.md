@@ -57,6 +57,5 @@
 ___
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Miclell/Miclell/snake-output/github-snake.svg" alt="Snake light" />
   <img src="https://raw.githubusercontent.com/Miclell/Miclell/snake-output/github-snake-dark.svg" alt="Snake dark" style="display: none;" />
 </div>
